@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "952040508236",
+    "project_id": "bustrack-2e4f4",
+    "storage_bucket": "bustrack-2e4f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952040508236:android:c9d72b80a6dabf0c0cdde9",
+        "android_client_info": {
+          "package_name": "com.example.bus_track"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChKtaQjwcXozOV1Mpo70j2dxzTA9fXmLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
